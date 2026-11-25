@@ -8,7 +8,7 @@ const WHATSAPP_NUMBER = "59168414604";
 const PHOTOS_PER_CATEGORY = {
   hombres: 700,
   ninos: 100,
-  damas: 24
+  damas: 6
 };
 
 // Extensión de tus imágenes ("jpg", "png", "webp")
