@@ -35,7 +35,7 @@ body {
 
 .header-kicker {
   display: inline-block;
-  font-size: 0.72rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 2.5px;
   color: var(--brand-steel);
@@ -54,7 +54,7 @@ body {
 }
 
 .magazine-subtitle {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: var(--ink-secondary);
   margin-bottom: 24px;
 }
